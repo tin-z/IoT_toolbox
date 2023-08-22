@@ -1,0 +1,16 @@
+# comment
+gdb
+gdbserver
+tcpdump
+trace
+wget
+curl
+netcat
+ncat
+nc
+socat
+nmap
+gcc
+g++
+core
+deebe
