@@ -26,6 +26,8 @@ Here i'll publish some rudimentary tools i made for vulnerability research and r
 [dump_memory](dump_memory) :
  - [procdump.min](dump_memory/procdump.min) : Minimal process dump memory C code without using 'process_vm_readv' syscall and so ideal for old kernels
 
+[grep](grep):
+ - [distrib_grep.sh](grep/distrib_grep.sh) : do poor string distribution
 
 [gdb](./gdb) :
  - [load_library_inject.gdb](gdb/load_library_inject.gdb) : example on how to load a library inside the debeguee process memory address
